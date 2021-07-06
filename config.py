@@ -1,0 +1,1 @@
+db_password = 'M@g1c32!'
